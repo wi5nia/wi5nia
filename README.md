@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wi5nia
+- 👋 Hi, I’m Tomasz
 - 👀 I’m interested in Cloud computing
 - 🌱 I’m currently learning something new every day
 - 💞️ I’m looking to collaborate on Azure projects
